@@ -1,2 +1,1 @@
-this is first git
-add test
+根目录
